@@ -1,0 +1,1 @@
+A simple app that have 1 screen that show Text of Cat (with person icon) and when tap change to Dog (with access time icon)
